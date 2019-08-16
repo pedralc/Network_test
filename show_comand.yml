@@ -16,3 +16,4 @@
     register: after_v2
 
   - debug: var=after_v2.stdout_lines
+.
